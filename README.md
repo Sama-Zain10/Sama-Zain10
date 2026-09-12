@@ -77,6 +77,6 @@ I build backend systems and full-stack apps with .NET, Node.js, and React — an
 
 ### 📬 Get in Touch
 
-- 📧 Email: smasyd237@gmail.com
+- 📧 Email: samaeng702@gmail.com
 - 🔗 LinkedIn: [Sama Sayed](https://www.linkedin.com/in/sama-sayed-801189386)
 - 💻 GitHub: [Sama-Zain](https://github.com/Sama-Zain)
